@@ -1,6 +1,6 @@
 {
   "name": "multi-assets-combine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Combine HTML/CSS/Javascript files into single file",
   "main": "index.js",
   "bin": {"mult-assets-combine": "bin/index.js"},
