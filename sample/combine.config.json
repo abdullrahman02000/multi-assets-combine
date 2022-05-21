@@ -1,0 +1,6 @@
+{
+    "input": "index.html",
+    "output": "output.html",
+    "style": "style.css",
+    "script": "script.js"
+}

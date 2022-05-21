@@ -1,0 +1,18 @@
+{
+  "name": "multi-assets-combine",
+  "version": "1.0.0",
+  "description": "Combine HTML/CSS/Javascript files into single file",
+  "main": "index.js",
+  "bin": {"mult-assets-combine": "bin/index.js"},
+  "keywords": [
+    "Combine",
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Abdulrahman Qutaiba",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^5.3.3"
+  }
+}
