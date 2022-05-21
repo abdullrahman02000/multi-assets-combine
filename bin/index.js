@@ -40,7 +40,9 @@ if (typeof(obj.config) === 'string') {
 
     }).catch(err => {
       console.log(err.message)
-      throw err
+      if (obj.debug) {
+        throw err
+      }
       process.exit(1)
     });
     
